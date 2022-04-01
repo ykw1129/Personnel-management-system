@@ -1,6 +1,5 @@
 import React from 'react'
 import { useArray } from '../../hooks/index';
-
 type Props = {}
 const persons:{name:string,age:number}[] = [
     {name:'jack',age:20},
